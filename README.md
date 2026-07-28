@@ -1,5 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 
+<!-- HEADER BANNER & VISITOR COUNTER -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ananya-09.DSA-Discussions">
 
 <div align="center">
@@ -8,6 +9,7 @@
   </a>
 </div>
 
+<!-- SOCIAL & COMPETITIVE PROGRAMMING LINKS -->
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ananya-in-tech/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.webp"> LinkedIn</a></code>
   <code><a href="https://youtube.com/@ananya_in_tech" title="YouTube Profile"><img width="22" src="./images/youtube.webp"> YouTube</a></code>
@@ -16,7 +18,13 @@
   <code><a href="https://codeforces.com/profile/ananya-09" title="CodeForces Profile"><img width="22" src="./images/codeforces.webp"> CodeForces</a></code>
   <code><a href="https://leetcode.com/u/ananya-in-tech/" title="LeetCode Profile"><img width="22" src="./images/leetcode.png"> LeetCode</a></code>
 </h5>
+
 <br>
+
+---
+
+<!-- ABOUT ME SECTION -->
+## 👩‍💻 About Me
 
 <div>
     <p>
@@ -42,6 +50,11 @@
     </p>
 </div>
 
+---
+
+<!-- TECH STACK & TOOLS -->
+## 🛠️ Tech Stack & Skills
+
 <div>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,6 +75,7 @@
 
 ---
 
+<!-- DISCUSSIONS & COMMUNITY -->
 ## 💬 Let's Connect & Discuss!
 
 Have a question about **GSoC**, open-source, web development, or community building? Or just want to say hi? 
