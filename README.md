@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ananya-09/ananya-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- markdownlint-disable MD041 -->
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ananya-09.DSA-Discussions">
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=500&height=100&size=28&pause=1000&color=0EB397FF&background=00000000&center=true&width=600&height=100&lines=Hello+There!+%F0%9F%91%8B;This+is+Ananya;Nice+to+meet+you!&center=true&size=50" alt="Welcome to Ananya's Profile Typing SVG" />
+  </a>
+</div>
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/ananya-in-tech/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://youtube.com/@ananya_in_tech" title="YouTube Profile"><img width="22" src="images/youtube.png"> YouTube</a></code>
+  <code><a href="https://stackoverflow.com/users/32182648/ananya-in-tech" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://atcoder.jp/users/ananya_in_tech" title="AtCoder Profile"><img width="22" src="images/atcoder.svg"> AtCoder</a></code>
+  <code><a href="https://codeforces.com/profile/ananya-09" title="CodeForces Profile"><img width="22" src="images/codeforces.wep"> CodeForces</a></code>
+  <code><a href="https://leetcode.com/u/ananya-in-tech/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+</h5>
+<br>
+
+<div>
+    <p>
+      Hi, I'm Ananya, Co-Lead @ GDG & Open-Source Contributor 🚀
+      <br>
+      <br>
+      🎓 I'm currently pursuing my B.Tech in Civil Engineering
+      <br>
+      💻 I'm currently working as a GSoC '26 Contributor with the OWASP Foundation on BLT-Vanish
+      <br>
+      💡 Co-Lead at GDG on Campus & Executive Member at FLUX Society
+      <br>
+      🌐 Passionate about building web applications with the MERN stack & open-source community growth
+      <br>
+      📚 I’m currently sharpening my DSA skills & building scalable full-stack projects
+      <br>
+      ✨ I love exploring cozy tech aesthetics, journaling, and solving real-world problems through code
+      <br>
+      <br>
+      💬 Discuss with me about tech <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
+      <br>
+      📫 How to reach me: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a>
+    </p>
+</div>
+
+<div>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </p>
+  <p>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </p>
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+</div>
+
+<!-- markdownlint-enable MD033 -->
