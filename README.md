@@ -60,6 +60,26 @@
 
 <!-- markdownlint-enable MD033 -->
 
+---
+
+## 💬 Let's Connect & Discuss!
+
+Have a question about **GSoC**, open-source, web development, or community building? Or just want to say hi? 
+
+* 💬 **Ask a question or start a discussion:** Head over to my [GitHub Discussions](../../discussions) tab!
+* 📌 **What you can ask me about:**
+  * Getting started with Open-Source & GSoC
+  * Web & App development
+  * Community building & leadership
+  * Tech recommendations & resources
+  * Data Structures & Algorithms
+
+...and many more
+
+> 💡 *Feel free to open a thread under **Q&A**—I'd love to connect and help out where I can!*
+
+---
+
 <!--
 **ananya-09/ananya-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
