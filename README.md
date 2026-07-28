@@ -1,18 +1,3 @@
-<!--
-**ananya-09/ananya-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- markdownlint-disable MD041 -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ananya-09.DSA-Discussions">
@@ -35,14 +20,14 @@ Here are some ideas to get you started:
 
 <div>
     <p>
-      Hi, I'm Ananya, Co-Lead @ GDG & Open-Source Contributor 🚀
+      Hi, I'm Ananya, GSoC '26 Contributor & Open-Source Contributor 🚀
       <br>
       <br>
-      🎓 I'm currently pursuing my B.Tech in Civil Engineering
+      🎓 Pursuing my B.Tech in Civil Engineering
       <br>
-      💻 I'm currently working as a GSoC '26 Contributor with the OWASP Foundation on BLT-Vanish
+      💻 Contributing as a GSoC '26 Contributor with the OWASP Foundation on BLT-Vanish
       <br>
-      💡 Co-Lead at GDG on Campus & Executive Member at FLUX Society
+      💡 Ex-Co-Lead at GDG on Campus & Executive Member at FLUX Society
       <br>
       🌐 Passionate about building web applications with the MERN stack & open-source community growth
       <br>
@@ -51,9 +36,9 @@ Here are some ideas to get you started:
       ✨ I love exploring cozy tech aesthetics, journaling, and solving real-world problems through code
       <br>
       <br>
-      💬 Discuss with me about tech <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
+      💬 Let's discuss about tech and more <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
       <br>
-      📫 How to reach me: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a>
+      📫 Reach me at: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a>
     </p>
 </div>
 
@@ -74,3 +59,18 @@ Here are some ideas to get you started:
 </div>
 
 <!-- markdownlint-enable MD033 -->
+
+<!--
+**ananya-09/ananya-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
