@@ -1,8 +1,10 @@
 <!-- markdownlint-disable MD041 -->
 
 <!-- HEADER BANNER & VISITOR COUNTER -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ananya-09.DSA-Discussions">
-
+<div>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ananya-09.DSA-Discussions">
+</div>
+<br>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=500&height=100&size=28&pause=1000&color=0EB397FF&background=00000000&center=true&width=600&height=100&lines=Hello+There!+%F0%9F%91%8B;This+is+Ananya;Nice+to+meet+you!&center=true&size=50" alt="Welcome to Ananya's Profile Typing SVG" />
@@ -24,12 +26,9 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-## 👩‍💻 About Me
-
 <div>
     <p>
       Hi, I'm Ananya, GSoC '26 Contributor & Open-Source Contributor 🚀
-      <br>
       <br>
       🎓 Pursuing my B.Tech in Civil Engineering
       <br>
