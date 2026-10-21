@@ -16,7 +16,7 @@
   <code><a href="https://www.linkedin.com/in/ananya-in-tech/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.webp"> LinkedIn</a></code>
   <code><a href="https://youtube.com/@ananya_in_tech" title="YouTube Profile"><img width="22" src="./images/youtube.webp"> YouTube</a></code>
   <code><a href="https://stackoverflow.com/users/32182648/ananya-in-tech" title="Stack Overflow Profile"><img width="22" src="./images/stackoverflow.webp"> Stack Overflow</a></code>
-  <code><a href="https://atcoder.jp/users/ananya_in_tech" title="AtCoder Profile"><img width="22" src="./images/atcoder.webp"> AtCoder</a></code>
+  <code><a href="https://atcoder.jp/users/ananya_in_tech" title="AtCoder Profile"><img width="22" src="./images/atcoder.webp"> AtCoder</a></code> -->
   <code><a href="https://codeforces.com/profile/ananya-09" title="CodeForces Profile"><img width="22" src="./images/codeforces.webp"> CodeForces</a></code>
   <code><a href="https://leetcode.com/u/ananya-in-tech/" title="LeetCode Profile"><img width="22" src="./images/leetcode.png"> LeetCode</a></code>
 </h5>
@@ -34,7 +34,7 @@
       <br>
       💻 Contributing as a GSoC '26 Contributor with the OWASP Foundation on BLT-Vanish
       <br>
-      💡 Ex-Co-Lead at GDG on Campus & Executive Member at FLUX Society
+      💡 Ex-Co-Lead at GDG on Campus & Ex-Executive Member at FLUX Society
       <br>
       🌐 Passionate about building web applications with the MERN stack & open-source community growth
       <br>
@@ -45,7 +45,7 @@
       <br>
       💬 Let's discuss about tech and more <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
       <br>
-      📫 Reach me at: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a>
+      📫 Reach me at: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a> <i>Profestional Only<i>
     </p>
 </div>
 
