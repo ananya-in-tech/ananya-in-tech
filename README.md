@@ -83,6 +83,7 @@
 Have a question about **GSoC**, open-source, web development, or community building? Or just want to say hi? 
 
 * 💬 **Ask a question or start a discussion:** Head over to my [GitHub Discussions](../../discussions) tab!
+> Don't forget to tag/mention my github ID [@ananya-in-tech](https://github.com/ananya-in-tech) to get me notified for your queries
 * 📌 **What you can ask me about:**
   * Getting started with Open-Source & GSoC
   * Web & App development
