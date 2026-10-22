@@ -45,6 +45,9 @@
       <br>
       💬 Let's discuss about tech and more <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
       <br>
+      <i> > Don't forget to tag/mention my github ID <a href="https://github.com/ananya-in-tech" title="Ananya in Tech Github ID">@ananya-in-tech</a> to get me notified for your queries</i>
+      <br>
+      <br>
       📫 Reach me at: <a href="mailto: ananyar0912@gmail.com">ananyar0912@gmail.com</a> <i>Profestional Only<i>
     </p>
 </div>
