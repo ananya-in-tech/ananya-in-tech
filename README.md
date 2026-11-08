@@ -16,7 +16,7 @@
   <code><a href="https://www.linkedin.com/in/ananya-in-tech/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.webp"> LinkedIn</a></code>
   <code><a href="https://youtube.com/@ananya_in_tech" title="YouTube Profile"><img width="22" src="./images/youtube.webp"> YouTube</a></code>
   <code><a href="https://stackoverflow.com/users/32182648/ananya-in-tech" title="Stack Overflow Profile"><img width="22" src="./images/stackoverflow.webp"> Stack Overflow</a></code>
-  <code><a href="https://atcoder.jp/users/ananya_in_tech" title="AtCoder Profile"><img width="22" src="./images/atcoder.webp"> AtCoder</a></code> -->
+  <code><a href="https://atcoder.jp/users/ananya_in_tech" title="AtCoder Profile"><img width="22" src="./images/atcoder.webp"> AtCoder</a></code>
   <code><a href="https://codeforces.com/profile/ananya-09" title="CodeForces Profile"><img width="22" src="./images/codeforces.webp"> CodeForces</a></code>
   <code><a href="https://leetcode.com/u/ananya-in-tech/" title="LeetCode Profile"><img width="22" src="./images/leetcode.png"> LeetCode</a></code>
 </h5>
@@ -44,14 +44,6 @@
       <br>
       <br>
       👉 Want to know more, Visit <a href="https://ananya-in-tech.me" title="Ananya in Tech Portfolio">here</a>
-      <br>
-      <br>
-      💬 Let's discuss about tech and more <a href="https://github.com/ananya-in-tech/ananya-in-tech/discussions" title="Discussions">here</a>
-      <br>
-      <i> > Don't forget to tag/mention my github ID <a href="https://github.com/ananya-in-tech" title="Ananya in Tech Github ID">@ananya-in-tech</a> to get me notified for your queries</i>
-      <br>
-      <br>
-      📫 Reach me at: <a href="mailto: contact@ananya-in-tech.me">contact@ananya-in-tech.me</a>
     </p>
 </div>
 
